@@ -1,0 +1,537 @@
+
+@media (min-width: 1600px) and (max-width: 1800px) {
+
+}
+
+
+@media (min-width: 1400px) and (max-width: 1599px) {
+    .hero-shape .hero-bg {
+        width: 40%;
+        height: 1082px;
+    }
+    .gourmet-img img {
+        margin-right: 0;
+    }
+    .gourmet-title p {
+        font-size: 20px;
+    }
+    .meckup-title p {
+        font-size: 18px;
+    }
+    .meckup-title h1 {
+        font-size: 48px;
+    }
+    .meckup-btn.btn {
+        margin-top: 50px;
+    }
+    .meckup-img img {
+        width: 212%;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .hero-title h1 {
+        font-size: 35px;
+        color: #fff;
+    }
+    .hero-title p {
+        font-size: 20px;
+        color: #fff;
+    }
+    .btn {
+        font-size: 18px;
+    }
+    .hero-bg {
+        width: 100%;
+        height: 800px;
+    }
+    .shape-bg {
+        width: 0;
+        height: 0;
+        position: absolute;
+        right: 0;
+        z-index: 0;
+        background: none;
+    }
+    .gourmet-title.f-right {
+        float: none;
+        padding-right: 0;
+    }
+    .gourmet-title h1 {
+        font-size: 35px;
+        margin-bottom: 15px;
+        line-height: 35px;
+    }
+    .gourmet-title p {
+        font-size: 16px;
+    }
+    .gourmet-btn.btn{
+        margin-top: 0;
+    }
+    .gourmet-img img {
+        width: 100%;
+    }
+    .gourmet-shape {
+        top: 15%;
+        left: 1.5%;
+    }
+    .gourmet-shape img {
+        width: 60%;
+    }
+    .testiminiol-content span {
+        font-size: 15px;
+    }
+    .testiminiol-content p {
+        font-size: 19px;
+    }
+    .testiminiol-title h1 span {
+        font-size: 40px;
+        line-height: 62px;
+    }
+    .testiminiol-title h1 {
+        font-size: 50px;
+        line-height: 72px;
+    }
+    .shape-3 .shape-img-2 {
+        position: absolute;
+        right: 27%;
+        bottom: 31%;
+        width: 13%;
+    }
+    .shape-img-1 {
+        position: absolute;
+        width: 13%;
+        top: 27%;
+    }
+    .shape-img-3 {
+        right: 1px;
+        position: absolute;
+        top: -30px;
+        width: 15%;
+    }
+    .testiminiol-title p {
+        font-size: 14px;
+    }
+    .meckup-title p {
+        font-size: 20px;
+    }
+    .meckup-title h1 {
+        font-size: 40px;
+    }
+    .meckup-title.f-right {
+        padding-left: 0;
+    }
+
+
+    .meckup-img img {
+        margin-left: -50px;
+    }
+}
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 991px) and (max-width: 1199px) {
+    .meckup-img img {
+        width: 100%;
+    }
+    .gourmet-title p {
+        font-size: 14px;
+        line-height: 1;
+    }
+    .hero-orange {
+        left: 0;
+    }
+    .shape-bg {
+        width: 0;
+        height: 0;
+        position: absolute;
+        right: 0;
+        z-index: 0;
+        background: none;
+    }
+    .hero-title h1 {
+        font-size: 35px;
+        color: #fff;
+    }
+    .hero-title p {
+        font-size: 20px;
+        color: #fff;
+    }
+    .btn {
+        font-size: 18px;
+    }
+    .hero-bg {
+        width: 100%;
+        height: 805px;
+    }
+    .gourmet-area {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .gourmet-title.f-right {
+        float: none;
+        padding-right: 0;
+    }
+    .gourmet-title h1 {
+        font-size: 35px;
+        margin-bottom: 15px;
+        line-height: 35px;
+    }
+    .gourmet-title p {
+        font-size: 16px;
+    }
+    .gourmet-btn.btn{
+        margin-top: 0;
+    }
+    .gourmet-img img {
+        width: 100%;
+    }
+    .gourmet-shape {
+        top: 15%;
+        left: 1.5%;
+    }
+    .gourmet-shape img {
+        width: 60%;
+    }
+    .testiminiol-content span {
+        font-size: 15px;
+    }
+    .testiminiol-content p {
+        font-size: 19px;
+    }
+    .testiminiol-title h1 span {
+        font-size: 40px;
+        line-height: 62px;
+    }
+    .testiminiol-title h1 {
+        font-size: 50px;
+        line-height: 72px;
+    }
+    .testiminiol-title p {
+        font-size: 14px;
+    }
+    .shape-3 .shape-img-2 {
+        position: absolute;
+        right: 27%;
+        bottom: 31%;
+        width: 13%;
+    }
+    .shape-img-1 {
+        position: absolute;
+        width: 13%;
+        top: 27%;
+    }
+    .shape-img-3 {
+        right: 1px;
+        position: absolute;
+        top: -30px;
+        width: 15%;
+    }
+    .meckup-title p {
+        font-size: 14px;
+    }
+    .meckup-title h1 {
+        font-size: 35px;
+    }
+    .meckup-title.f-right {
+        padding-left: 0;
+    }
+    .meckup-shape img {
+        width: 50%;
+    }
+    .meckup-shape {
+        position: absolute;
+        left: 49%;
+        top: 55%;
+        z-index: -1;
+    }
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .hero-logo {
+        position: absolute;
+        left: 41%;
+        top: 40px;
+    }
+    .hero-title h1 {
+        color: #fff;
+        font-size: 50px;
+      }
+      .hero-title {
+        text-align: center;
+      }
+      .hero-title p {
+        color: #fff;
+        margin-bottom: 30px;
+      }
+      .hero-bg {
+        width: 100%;
+        height: 1440px;
+      }
+      .hero-img {
+        margin-bottom: 50px;
+      }
+    .gourmet-title.f-right {
+        padding-right: 0;
+    }
+    .gourmet-img.f-right {
+        float: none;
+        margin-bottom: 50px;
+      }
+      .gourmet-img img {
+        margin-right: 0;
+      }
+      .gourmet-area {
+        text-align: center;
+        padding: 100px 0;
+      }
+      .gourmet-shape img {
+        width: 50%;
+    }
+    .gourmet-shape {
+        position: absolute;
+        top: 4%;
+        left: 2.5%;
+        z-index: -1;
+        opacity: 10%;
+    }
+    .testiminiol-title h1 {
+        font-size: 50px;
+        line-height: 1;
+    }
+    .testiminiol-title h1 span {
+        font-size: 40px;
+        line-height: 1;
+    }
+    .testiminiol-content.text-center {
+        margin-bottom: 50px;
+    }
+    .testiminiol-content.mb.text-center {
+        margin-bottom: 0;
+    }
+    .meckup-title.f-right {
+        float: none;
+        padding-left: 0;
+        text-align: center;
+        margin-bottom: 100px;
+    }
+    .meckup-img {
+  text-align: center;
+}
+    .meckup-title h1 {
+        font-size: 45px;
+    }
+    .meckup-title p {
+        font-size: 17px;
+    }
+    .meckup-img {
+        text-align: center;
+    }
+    .meckup-shape {
+        position: absolute;
+        left: 0;
+        top: 45%;
+    }
+    .meckup.pt-190.pb-190 {
+        padding: 100px 0;
+    }
+    .gourmet-title h1 {
+        font-size: 40px;
+    }
+    .gourmet-title p {
+        font-size: 18px;
+    }
+    .hero-orange {
+        left: 0;
+    }
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    
+    .hero-logo {
+        position: absolute;
+        left: 41%;
+        top: 40px;
+    }
+    .hero-title h1 {
+        color: #fff;
+        font-size: 50px;
+      }
+      .hero-title {
+        text-align: center;
+      }
+      .hero-title p {
+        color: #fff;
+        margin-bottom: 30px;
+        font-size: 18px;
+      }
+      .hero-bg {
+        width: 100%;
+        height: 1310px;
+      }
+      .hero-img {
+        margin-bottom: 50px;
+      }
+
+    .meckup-title.f-right {
+        padding-left: 0;
+        float: none;
+    }
+    .gourmet-title.f-right {
+        padding-right: 0;
+    }
+    .gourmet-img.f-right {
+        float: none;
+        margin-bottom: 50px;
+      }
+      .gourmet-img img {
+        margin-right: 0;
+        width: 100%;
+      }
+      .gourmet-area {
+        text-align: center;
+        padding-bottom: 80px;
+      }
+      .gourmet-shape img {
+        width: 50%;
+    }
+    .gourmet-shape {
+        position: absolute;
+        top: 10%;
+        left: -5.5%;
+        z-index: -1;
+        opacity: 10%;
+    }
+    .gourmet-title p {
+        font-size: 11px;
+        line-height: 20px;
+    }
+    .gourmet-title h1 {
+        font-size: 27px;
+        line-height: 33px;
+        margin-bottom: 25px;
+    }
+    .testiminiol-title h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .testiminiol-title h1 span {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .testiminiol-content.text-center {
+        margin-bottom: 50px;
+    }
+    .testiminiol-content.mb.text-center {
+        margin-bottom: 0;
+    }
+    .shape-img-1 {
+        position: absolute;
+        width: 30%;
+        top: 37%;
+    }
+    .hero-orange {
+        left: 0;
+    }
+    .meckup-shape {
+        left: -28%;
+        top: 53%;
+    }
+    .meckup {
+        text-align: center;
+        padding: 100px 0;
+    }
+    .hero-title h1 {
+        font-size: 29px;
+    }
+    .hero-title p {
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+    .btn {
+        font-size: 13px;
+    }
+    .shape-bg {
+        width: 0;
+        height: 0;
+        position: absolute;
+        right: 0;
+        z-index: -2;
+        background: none;
+    }
+    .hero-area {
+        padding-bottom: 0;
+    }
+    .testiminiol-title p {
+        font-size: 9px;
+        line-height: 20px;
+    }
+    .testiminiol-content p {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .testiminiol-content span {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .testiminiol-area.pt-120.pb-120 {
+        padding: 100px 0;
+    }
+    .meckup-title h1 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .meckup-title p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .meckup-img img {
+        width: 100%;
+    }
+    .hero-piment {
+        position: absolute;
+        top: 4%;
+        left: 0;
+    }
+    .shape-gourmet {
+        position: absolute;
+        right: 7%;
+        bottom: 40%;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 575.98px){
+    .hero-logo {
+        position: absolute;
+        left: 90px;
+        top: 40px;
+        right: 0;
+    }
+    .hero-title h1 {
+        font-size: 29px;
+    }
+    .hero-title p {
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+    .btn {
+        font-size: 13px;
+    }
+    .shape-bg {
+        width: 0;
+        height: 0;
+        position: absolute;
+        right: 0;
+        z-index: -2;
+        background: none;
+    }
+    .hero-area {
+        padding-bottom: 0;
+    }
+    .hero-bg {
+        width: 100%;
+        height: 925px;
+    }
+}
